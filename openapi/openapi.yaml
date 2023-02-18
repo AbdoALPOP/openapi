@@ -1,16 +1,16 @@
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Example.com
-  termsOfService: 'https://example.com/terms/'
+  title: sonicar.tech
+  termsOfService: 'https://sonicar.tech/'
   contact:
-    email: contact@example.com
-    url: 'http://example.com/contact'
+    email: aragab@sonicar.tech
+    url: 'https://www.upwork.com/freelancers/abdelrahmanragab1e'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
-    url: 'https://redocly.github.io/openapi-template/logo.png'
+    url: 'https://drive.google.com/file/d/1Uz6WzM0EqgpImfYT9K-mtljbNuM8Hxfz/view?usp=sharing'
   description:
     $ref: ./info-description.md
 tags:
